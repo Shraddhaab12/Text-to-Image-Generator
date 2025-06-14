@@ -144,3 +144,8 @@ Visit http://localhost:3000 in your browser.
 - Enable multi-language prompt inputs
 
 - Add comments, reactions, and trending image filters
+
+📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
