@@ -96,8 +96,7 @@ Text-to-image-generator-project/
 
 🛠️ 1. Clone the Repository
 
-git clone https://github.com/Shrutipadwal/Text-to-Image-Generator.git
-cd text-to-image-generator
+git clone https://github.com/Shraddhaab12/Text-to-Image-Generator
 (Replace with your actual repo URL)
 
 
@@ -145,12 +144,3 @@ Visit http://localhost:3000 in your browser.
 - Enable multi-language prompt inputs
 
 - Add comments, reactions, and trending image filters
-
-
-🧑‍💻 Author
-
-Developed by SHRUTI PADWAL
-
-M.Sc. Computer Science
-
-LinkedIn: https://www.linkedin.com/in/shruti-padwal-b39054264/
